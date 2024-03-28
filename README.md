@@ -8,7 +8,7 @@ Documentation : https://api.anime-dex.workers.dev
 
 ## Deploy To Cloudflare (Easy Way)
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/sheyste/AnimeAPI)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Shensuu-Streaming-Platform/anime-api)
 
 ### Deploy Tutorial
 
